@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMeshConverter", "RMeshConverter\RMeshConverter.csproj", "{83D15787-0E51-4A85-9D6F-331AA7EF7C50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMeshConverter.Cli", "RMeshConverter.Cli\RMeshConverter.Cli.csproj", "{1FC6FE73-1D53-4E4D-B9C8-6DC9F837577F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{83D15787-0E51-4A85-9D6F-331AA7EF7C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D15787-0E51-4A85-9D6F-331AA7EF7C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D15787-0E51-4A85-9D6F-331AA7EF7C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC6FE73-1D53-4E4D-B9C8-6DC9F837577F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC6FE73-1D53-4E4D-B9C8-6DC9F837577F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC6FE73-1D53-4E4D-B9C8-6DC9F837577F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC6FE73-1D53-4E4D-B9C8-6DC9F837577F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
